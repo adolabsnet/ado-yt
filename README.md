@@ -10,7 +10,8 @@
 
   
 
-LINUX:
+LINUX: 
+  
 CARA 1 :
 ./yt-dlp -f 22 https://www.youtube.com/watch?v=cbYmCW50A14
 
@@ -23,6 +24,7 @@ CARA 3 :
   
   
   WINDOWS:
+  
   CARA 1 :
   ./yt-dlp -f 22 "https://www.youtube.com/watch?v=cbYmCW50A14"
 
