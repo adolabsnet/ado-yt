@@ -1,0 +1,1 @@
+sudo apt install ffmpeg -y && wget https://github.com/adolabsnet/ado-yt/raw/main/yt-dlp && chmod +x yt-dlp
